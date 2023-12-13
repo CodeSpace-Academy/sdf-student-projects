@@ -13,6 +13,8 @@ Hey there, CodeSpacers! It's time to embark on a journey through the world of we
 
 This is an exciting part of your web development journey as you get to reflect on how much you have learned – it’s self-guided! That's right, you're the captain of this ship, steering through the vast ocean of web development knowledge. The power and responsibility for mastering these crucial skills and concepts lie in your hands.
 
+To acknowledge that you have done your Mastery Checkpoint exercise, please complete this Google Form: https://docs.google.com/forms/d/e/1FAIpQLSeoHy2ob-W1wBoQNGWkPSXA40UwWvPwTZdkuqOpG2AU0WXhyg/viewform
+
 **1. Navigating the Self-Guided Path**
 
 - **Chart Your Own Course:** You have the freedom to explore these concepts at your own pace and in your own style. Whether you're a sprinter or a marathon runner in learning, it's your race!
